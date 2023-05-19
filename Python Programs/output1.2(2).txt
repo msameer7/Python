@@ -1,0 +1,3 @@
+Search for 10: False. Time taken: 0.0 seconds.
+Insertion of 20 completed. Time taken: 0.0 seconds.
+Deletion of 30 completed. Time taken: 0.0 seconds.
